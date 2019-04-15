@@ -1,10 +1,16 @@
-h1 {
+h1{
+  color: black;
+  font-family: baskerville, serif;
+  font-size: 18px
+  
+}
+h2 {
     color: black;
-    font-family: "Papyrus", Andale Mono, sans-serif; 
-    font-size: 18px
+    font-family: Andale Mono, sans-serif; 
+    font-size: 16px
 }
 p {
-	color: Blue; 
+	color: black; 
 	font-family: Sans-serif;
 	font-size: 12px;
 }
