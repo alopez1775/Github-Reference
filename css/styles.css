@@ -1,13 +1,13 @@
 h1{
   color: black;
   font-family: baskerville, serif;
-  font-size: 18px
+  font-size: 18px;
   
 }
 h2 {
     color: black;
     font-family: Andale Mono, sans-serif; 
-    font-size: 16px
+    font-size: 16px;
 }
 p {
 	color: black; 
@@ -15,7 +15,7 @@ p {
 	font-size: 12px;
 }
 img {
-	width: 100px
+	width: 100%;
 }
 ul {
     font-family: Sans-serif;
